@@ -1,0 +1,19 @@
+# python 第三方模块
+
+定义: 可以使用pip来安装的模块, 我们统称为第三方模块;
+来源: pypi.org -> 公网中存储第三方模块的库
+
+# Python第三方模块安装工具pip
+-> yum -->> .rpm
+-> pip -->> .tar.gz
+
+# pip install module_names  -> 安装指定的第三方模块
+# pip uninstall module_names -> 卸载指定的第三方模块
+# pip search module_names -> 寻找指定的第三方模块
+# pip list  -> 查看已经安装过的包/第三方模块
+
+
+# Linux系统管理
+    1. 怎样清理系统的内存(在线服务器);
+    2. 怎么样设置系统的最大文件打开数?
+    3. 去查看怎样进行磁盘限额?

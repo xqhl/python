@@ -1,0 +1,7 @@
+hello
+world
+kitty
+18
+24
+3.14
+56
